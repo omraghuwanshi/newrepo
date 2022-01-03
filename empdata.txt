@@ -1,0 +1,3 @@
+Here Employee data is store.
+Emp name :new employee.
+emp dep: IT.
