@@ -1,3 +1,10 @@
 Here Employee data is store.
+
 Emp name :new employee.
+emp dep: IT
+
+Emp name :new employee 2.
 emp dep: IT.
+
+Emp name :new employee 3.
+emp dep: HR.
